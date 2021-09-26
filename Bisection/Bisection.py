@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 f = lambda x: x**3 + 4*x**2 - 10 #write function here w.r.t x.
 
