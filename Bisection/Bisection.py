@@ -1,6 +1,6 @@
 import numpy as np
 
-f = lambda x: x**3 + 4*x**2 - 10 #write function here w.r.t x.
+f = lambda x: x**3 + 4*x**2 - 10     #write function here w.r.t x.
 
 a = float(input(' Enter the first boundary : '))
 b = float(input(' Enter the second boundary : '))
