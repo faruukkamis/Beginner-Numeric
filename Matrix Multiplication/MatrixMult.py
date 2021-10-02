@@ -75,3 +75,5 @@ elif x == 'r':
     MatM()
     
 #res = np.matmul(A,B) --> To multiplication of matrices without using loops.
+
+
