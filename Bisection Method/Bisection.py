@@ -30,3 +30,5 @@ def Bisection(f,p1,p2,TOL):
 
 print(' The root is : ', Bisection(f, p1, p2, TOL))
 
+
+
